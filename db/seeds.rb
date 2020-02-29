@@ -118,5 +118,4 @@ image: "https://images.unsplash.com/photo-1505923080474-19e930fb03e7?ixlib=rb-1.
 ])
 
 users = User.create({name: "test user", username: "test",
-password_digest: "$2y$12$4ba3mqpcx2J.Y3R/x9f5q.eXpjcOkpMxSa2u1wy
-49omgRVBkITqa"})
+password_digest: "$2y$12$t8MvkYpRzSoNl/PYyeG7E.ocGQe.prfKIDWnyDB1dHsLzZQf8f5ti"})
